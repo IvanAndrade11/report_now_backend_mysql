@@ -1,8 +1,8 @@
 ## Location Data Base
-https://www.freemysqlhosting.net/account/
+https://railway.app/
 
 ## Page Heroku to deploy API 
-https://dashboard.heroku.com/apps/report-now
+https://dashboard.heroku.com
 
 ## User Mailer Provider
 * report.now.mailer@gmail.com
